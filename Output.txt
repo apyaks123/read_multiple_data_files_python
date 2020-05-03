@@ -1,0 +1,23 @@
+-------------------------------------------
+-------------Summary--------------------------
+-------------------------------------------
+Name of the file: Rats.txt
+-----------------------------------
+1.Total number of words in the report:289
+-----------------------------------
+
+-----------------------------------
+2.Total number of unique words:142
+-----------------------------------
+
+-----------------------------------
+3.Total number of unique words of more than four letters:139
+-----------------------------------
+
+-----------------------------------
+All the words in the list have been capitalized and sorted to be counted easily.They are as follows:
+-----------------------------------
+
+-----------------------------------
+18 25 26 A A A A A A According Addition All All All Alligator-like Aluminum, Always An And And And And And And And And Apart. Are Are Are Are Are Are Are As As At Attracted Attractive Be Be Because Behind Being Bites, Biting Breaks Brown Brown Brown Buckteeth. But By By Cables Cables. Can Case: Caused Certain Chew City City. Comparable Computer Copper, Disruptions Don’t Down Down Electric-cable Electrical Erroneously Especially Estimate, Example—the Exert Expert Few Fires Five Flap Floorboards For Forest.<eof> Front Front Gas Gnaw, Gnaws Gnaws Gnaws Gnaws, Go Grow Grow Hardness, Head Head, Hence, In In In In In In Inch. Inches Incisors Incisors Incisors Incisors, Incisors. Indigestible Iron. Is Is Is It It It. Its Its Its Its Its Jaws, Kill Lead, Length Lightning Like Like Limit Long Many Match—the Materials—concrete May Mice, Modern Naturally. Nest Newspapers, No Not Of Of Of Of Of Of Of Of Of Of Of Of Of Of Of Of Of Old On One One One One Or Origin Otherwise Out Per Per Percent Percent Percent Phone-cable Pipes. Plants; Plugs Pounds Pressure Rags Rat Rat Rat Rat Rat Rat Rat-caused. Rate Rats Rats Rats Rats Rats, Rats. Rat’s Rat’s Rat’s Resemblance Seem Seven Sharp, Shavings Sitting Skin Solely Sometimes Space Spread Square Stalks Stated Steel, Steel. Stronger Structure Studies. Study, Tattered Teeth Teeth Teeth Tenement, Terms Than That That The The The The The The The The The The The The The The The The The The Their Their Theorizes They This Thousand Throat To To To To To To To To To Two Two Unknown Up Utility Vehicles, Vines Vines Water Wear When When When Which Why—there Wires Wires Wires, Wires, Wires—to With Would Year. Yellow,
+-----------------------------------
